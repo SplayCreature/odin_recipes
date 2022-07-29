@@ -1,0 +1,50 @@
+ body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head {
+    color: white;
+    background-color: grey;
+    text-align: center;
+    
+}
+
+#img {
+    text-align: center;
+}
+
+.food {
+    height: auto;
+    width: 500px;
+}
+
+.ingredients {
+    color: grey; 
+}
+
+.steps {
+    color: grey;
+}
+
+.description {
+    color: grey;
+    text-align: center;
+}
+
+ ul {
+    display: inline-block;
+    margin-left: 33%;
+    transform: translateX(0%);
+ }
+
+  ol {
+    display: inline-block;
+    margin-left: 33%;
+    margin-right: 33%;
+    transform: translateX(0%);
+  }
+
+
+
+
